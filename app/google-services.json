@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1022747360905",
+    "firebase_url": "https://mybikeyourbike-85033.firebaseio.com",
+    "project_id": "mybikeyourbike-85033",
+    "storage_bucket": "mybikeyourbike-85033.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022747360905:android:3b128d05b51c9ccc",
+        "android_client_info": {
+          "package_name": "com.sofkadevelopment.mybike_yourbike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022747360905-0g2jvl4fbeedflkfen8jfrc3l3avh35b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sofkadevelopment.mybike_yourbike",
+            "certificate_hash": "81b4be89553b588def6e72383c3b963be11513f0"
+          }
+        },
+        {
+          "client_id": "1022747360905-n812ophq39939np9vkkptsgo8ahfoh5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyAxgBNpkLOLoXJgraMvXKh5M1HKrXTNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022747360905-n812ophq39939np9vkkptsgo8ahfoh5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
